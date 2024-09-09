@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React bu FPT University
+          Learn React by FPT University
         </a>
       </header>
     </div>
